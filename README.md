@@ -1,6 +1,6 @@
 ## CS2 Web Teması
 
-Merhaba teknoloji severler! CS2 web teması ile karşınızdayız. Modern tasarım anlayışıyla hazırlanan bu tema, hem kişisel hem de kurumsal siteler için mükemmel bir çözüm sunuyor. Kullanıcı dostu arayüzü, hızlı yüklenme süreleri ve SEO uyumlu yapısı ile web sitenizi Google’da üst sıralara taşıyacak.
+CS2 web teması kullanıcı dostu arayüzü, hızlı yüklenme süreleri ve SEO uyumlu yapısı ile web sitenizi Google’da üst sıralara taşıyacak.
 
 **Daha fazlasını görmek için internet sitemi ( https://marthex.dev/ ) ziyaret etmeyi unutma.**
 
