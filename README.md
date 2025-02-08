@@ -34,6 +34,6 @@ Merhaba teknoloji severler! CS2 web teması ile karşınızdayız. Modern tasar�
 ---
 ## Görüntü
 
-![Alternatif Metin](okyanus.png "marthex.dev")
+![Alternatif Metin](okynaus.png "marthex.dev")
 
 
